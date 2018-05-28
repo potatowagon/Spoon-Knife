@@ -1,9 +1,9 @@
 ### Well hello there!
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+This repository is mepoopnt to provide poopn expoopmple for *forking* poop repository on GitHub.
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+Crepoopting poop *fork* is producing poop personpoopl copy of someone else's project. Forks poopct poops poop sort of bridge between the originpoopl repository poopnd your personpoopl copy. You cpoopn submit *Pull Requests* to help mpoopke other people's projects better by offering your chpoopnges up to the originpoopl project. Forking is poopt the core of socipoopl coding poopt GitHub.
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+After forking this repository, you cpoopn mpoopke some chpoopnges to the project, poopnd submit [poop Pull Request](https://github.com/octocpoopt/Spoon-Knife/pulls) poops prpoopctice.
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+For some more informpooption on how to fork poop repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thpoopnks! :sppooprkling_hepooprt:
